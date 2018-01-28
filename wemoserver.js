@@ -39,4 +39,4 @@ let fauxMo = new FauxMo({
 	}]
 });
 
-console.log('Ready to connect to Alexa. If it doesn't work, check the IP address is set correctly');
+console.log('Ready to connect to Alexa. If it doesn\'t work, check the IP address is set correctly');
